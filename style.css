@@ -26,3 +26,22 @@ margin: 20 px;
     padding: 100px 200px;
 }
     
+.generatepwd { 
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 30px ;
+    margin: 20 px;
+    background-color: red;
+}
+
+.copytoclip {
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 30px ;
+    margin: 40 px;
+    background-color: grey;
+    margin-top: 10px;
+    margin-left: 10px;
+}
