@@ -8,22 +8,23 @@ border-radius: 25px;
 padding: 10px 20px ;
 margin: 20 px;
 }
-.danger {
-    background-color: red;
-}
-.row {background-color: rgb(247, 214, 214);
-    margin: 10px 20px;
-    padding: 10px 20px;
+
+.row {background-color: rgb(241, 222, 237);
+    margin: 5px 20px;
+    padding: 5px 20px;
+    border-radius: 10px;
 
 }
 
-.container { background-color:rgb(248, 244, 244);
+.container { background-color:white;
     border: grey;
     padding: 100px 200px;
     margin-top: 150px;
+    border-radius: 10px;
 }
 #display {
-    padding: 100px 200px;
+    padding: 50px 200px;
+    border-radius: 5px;
 }
     
 .generatepwd { 
