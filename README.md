@@ -15,7 +15,7 @@ Uppercase characters
 
 To create this application I have used several ressources online as well as from the in class material. I have used console.log for the prompts as well as if statements to make sure the conditions were met
 
-There are links:
+There are 3 links:
 
 index.html
 style.css
