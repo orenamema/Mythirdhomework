@@ -1,6 +1,3 @@
-// Based on code found on 
-// https://www.youtube.com/watch?v=9sT03jEwcaw
-// https://github.com/JamieMcGibbon/TechnicalCafe/tree/master/Misc%20Tutorials/Random%20Password%20Generator
 
 function passwordGenerator(){
     // The prompts
