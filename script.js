@@ -28,7 +28,7 @@ function passwordGenerator(){
     var capS = "ABCDEFGHIJKLMNOPQRSTUVWZYZ";
     var lowS = "abcdefghijklmnopqrstuvwxyz";
     var numS = "1234567890";
-    var specS = "!@#$%^&*()_+";
+    var specS = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"; 
 
     // string that will be edited
     var userSelection = "";
