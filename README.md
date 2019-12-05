@@ -6,6 +6,9 @@ This is a password generator website that can be accessed at index.html.In this 
 
 To create this application I have used several ressources online as well as from the in class material. I have used console.log for the prompts as well as if statements to make sure the conditions were met.
 
+ ![alt text](https://github.com/orenamema/Mythirdhomework/raw/master/password.gif)
+
+
 There are 3 files:
 
 * `index.html`
