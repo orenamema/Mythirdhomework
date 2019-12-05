@@ -15,22 +15,23 @@
 </head>
 <body>
 
-    <div class="container">
-        <div class ="row">
-            <div class = "col-lg-8 col-sm-12">
-                <div class = "content">
-                    <h1> Password Generator </h1>
-                    <br />
-                    <h4> Generate a Password </h4>
+    <div class="container" id="mainContainer">
+        <!-- <div class ="row"> -->
+            <!-- <div class = "col-lg-8 col-sm-12"> -->
+                <!-- <div class = "content"> -->
+                    <h1> Password Generator</h1>
+                    <h4> </br> </br>Generate a Password </h4>
+                    <hr>
                     <input type="text" id="display">
+                    <hr>
                     <br />
 
                     <button onclick="passwordGenerator()" class="generatepwd" >Generate Password</button>
-                    <button onclick="copyClipboard()" class="copytoclip" >Copy to Clipboard</button>
+                    <button id="cpBtn" onclick="copyClipboard()" class="copytoclip" >Copy to Clipboard</button>
 
-                </div>  
-            </div>
-        </div>
+                <!-- </div>   -->
+            <!-- </div> -->
+        <!-- </div> -->
 
     </div>
 

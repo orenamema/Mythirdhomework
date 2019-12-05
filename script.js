@@ -73,6 +73,7 @@ function copyClipboard() {
     copyText.setSelectionRange(0, 99999)
     document.execCommand("copy");
     alert("Your password " + copyText.value + " was copied to your clipboard ");
+    document.getElementById("cpBtn").style.background = "rgb(163, 10, 10)";
   }
 
 
