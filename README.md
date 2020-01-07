@@ -4,7 +4,7 @@
 
 This is a password generator website that can be accessed at index.html.In this assignment I was asked to create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
-To create this application I have used several ressources online as well as from the in class material. I have used console.log for the prompts as well as if statements to make sure the conditions were met.
+To create this application I have used several ressources online as well as from the in class material. I have used console.log for the prompts as well as if statements to make sure the conditions were met. Here is the [Link](https://orenamema.github.io/Mythirdhomework/) to the page.
 
  ![alt text](https://github.com/orenamema/Mythirdhomework/raw/master/password.gif)
 
