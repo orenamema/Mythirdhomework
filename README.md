@@ -1,4 +1,4 @@
-# Password Generator Homework 
+# Password Generator 
 
 ## Introduction
 
